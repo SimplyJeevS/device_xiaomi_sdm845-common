@@ -4,5 +4,11 @@
     "repository": "PainKiller3/vendor_xiaomi",
     "target_path": "vendor/xiaomi"
     "branch": "ten"
+  },
+  {
+    "remote": "github",
+    "repository": "mukul2259/packages_apps_gcam",
+    "target_path": "packages/apps/gcam"
+    "branch": "master"
   }
 ]
